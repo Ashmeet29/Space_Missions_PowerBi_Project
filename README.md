@@ -1,8 +1,10 @@
 # Space_Missions_PowerBi_Project
 Overview:
+
 A dynamic, interactive data visualization tool built to explore Power BI report analyzing all space missions from 1957 to 2022 — uncovering trends in rocket launches, mission outcomes, top-performing countries, and cost insights using real-world launch data.
 
 Purpose:
+
 The Space Missions Dashboard is a visually engaging and analytical Power BI report designed to explore global rocket launches and mission outcomes over the past six decades. It highlights mission success trends, rocket performance and country-wise contributions to space exploration. This project is intended for space industry analysts, data-driven strategists, and enthusiasts seeking to understand how mission outcomes and investments have evolved across time, rockets, and geographies.
 
 Tech Stack:
