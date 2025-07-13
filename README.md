@@ -39,3 +39,5 @@ Key Insights:
 - Majority of retired rockets had higher failure rates.
 - Launch cost peaked during high-success periods in space race history.
 
+Dashboard Preview:
+https://github.com/Ashmeet29/Space_Missions_PowerBi_Project/blob/main/Dashboard%20Preview.png
