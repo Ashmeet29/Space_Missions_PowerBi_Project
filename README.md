@@ -7,6 +7,7 @@ Purpose:
 
 The Space Missions Dashboard is a visually engaging and analytical Power BI report designed to explore global rocket launches and mission outcomes over the past six decades. It highlights mission success trends, rocket performance and country-wise contributions to space exploration. This project is intended for space industry analysts, data-driven strategists, and enthusiasts seeking to understand how mission outcomes and investments have evolved across time, rockets, and geographies.
 
+
 Tech Stack:
 The dashboard was built using the following tools and technologies:
 
