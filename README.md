@@ -22,14 +22,14 @@ Features & Highlights:
 - Most frequently used rockets?
 - Active rocket types
 
-  Dashboard Highlights:
-  - KPI Cards: Total missions, total launch cost, success rate, failures
-  - Bar Charts: Missions by Country, Rocket, and Company
-  - Line Graph: Year-wise trend in mission success
-  - Date Slicer: Filter missions from 1957–2022
-  - Custom Slicer Panel with Bookmarks
-  - Thematic Background & Custom Icons
-  - Emojis & Enhanced Title for better storytelling
+Dashboard Highlights:
+- KPI Cards: Total missions, total launch cost, success rate, failures
+- Bar Charts: Missions by Country, Rocket, and Company
+- Line Graph: Year-wise trend in mission success
+- Date Slicer: Filter missions from 1957–2022
+- Custom Slicer Panel with Bookmarks
+- Thematic Background & Custom Icons
+- Emojis & Enhanced Title for better storytelling
  
 Key Insights:
 - Over 4630 space missions were analyzed.
@@ -38,7 +38,4 @@ Key Insights:
 - Most frequently used rocket: Vanguard, Cosmos-3M, etc.
 - Majority of retired rockets had higher failure rates.
 - Launch cost peaked during high-success periods in space race history.
-
-Dashboard Preview:
-(https://github.com/Ashmeet29/Space_Missions_PowerBi_Project/blob/main/Dashboard%20Preview.png)
 
