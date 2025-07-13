@@ -8,11 +8,16 @@ Purpose:
 The Space Missions Dashboard is a visually engaging and analytical Power BI report designed to explore global rocket launches and mission outcomes over the past six decades. It highlights mission success trends, rocket performance and country-wise contributions to space exploration. This project is intended for space industry analysts, data-driven strategists, and enthusiasts seeking to understand how mission outcomes and investments have evolved across time, rockets, and geographies.
 
 Tech Stack:
+
 The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📊 Power BI Desktop – Main data visualization platform used for report creation
+.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
 • 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
+
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 Data Source: [Space Missions Dataset – Maven Analytics]
