@@ -1,14 +1,14 @@
 # Space_Missions_PowerBi_Project
-1 Overview:
+1) Overview:
 
 A dynamic, interactive data visualization tool built to explore Power BI report analyzing all space missions from 1957 to 2022 — uncovering trends in rocket launches, mission outcomes, top-performing countries, and cost insights using real-world launch data.
 
-2 Purpose:
+2) Purpose:
 
 The Space Missions Dashboard is a visually engaging and analytical Power BI report designed to explore global rocket launches and mission outcomes over the past six decades. It highlights mission success trends, rocket performance and country-wise contributions to space exploration. This project is intended for space industry analysts, data-driven strategists, and enthusiasts seeking to understand how mission outcomes and investments have evolved across time, rockets, and geographies.
 
 
-3 Tech Stack:
+3) Tech Stack:
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Main data visualization platform used for report creation
@@ -21,16 +21,16 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4 Data Source: [Space Missions Dataset – Maven Analytics]
+4) Data Source: [Space Missions Dataset – Maven Analytics]
 
-5 Features & Highlights:
+5) Features & Highlights:
 - Rocket launches trended over time
 - Global mission success rate
 - Successful missions by countries and companies
 - Most frequently used rockets?
 - Active rocket types
 
-6 Dashboard Highlights:
+6) Dashboard Highlights:
 - KPI Cards: Total missions, total launch cost, success rate, failures
 - Bar Charts: Missions by Country, Rocket, and Company
 - Line Graph: Year-wise trend in mission success
@@ -39,7 +39,7 @@ The dashboard was built using the following tools and technologies:
 - Thematic Background & Custom Icons
 - Emojis & Enhanced Title for better storytelling
  
-7 Key Insights:
+7) Key Insights:
 - Over 4630 space missions were analyzed.
 - The global mission success rate stands at approx 90%.
 - Russia and USA are the top contributors to space missions.
@@ -47,5 +47,5 @@ The dashboard was built using the following tools and technologies:
 - Majority of retired rockets had higher failure rates.
 - Launch cost peaked during high-success periods in space race history.
 
-8 Dashboard Preview:
+8) Dashboard Preview:
 https://github.com/Ashmeet29/Space_Missions_PowerBi_Project/blob/main/Dashboard%20Preview.png
